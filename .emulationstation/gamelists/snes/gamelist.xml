@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Aladdin (USA).zip</path>
+		<name>Aladdin</name>
+		<playcount>1</playcount>
+		<lastplayed>20180722T221437</lastplayed>
+	</game>
+	<game>
+		<path>./Donkey Kong Country (USA).zip</path>
+		<name>Donkey Kong Country</name>
+		<playcount>1</playcount>
+		<lastplayed>20180722T221516</lastplayed>
+	</game>
+</gameList>

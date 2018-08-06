@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./alpham2.zip</path>
+		<name>alpham2</name>
+		<playcount>2</playcount>
+		<lastplayed>20180729T121252</lastplayed>
+	</game>
+	<game>
+		<path>./bjourney.zip</path>
+		<name>bjourney</name>
+		<playcount>1</playcount>
+		<lastplayed>20180729T122437</lastplayed>
+	</game>
+	<game>
+		<path>./mslug2.zip</path>
+		<name>mslug2</name>
+		<playcount>4</playcount>
+		<lastplayed>20180729T124746</lastplayed>
+	</game>
+	<game>
+		<path>./kof98.zip</path>
+		<name>kof98</name>
+		<playcount>2</playcount>
+		<lastplayed>20180729T141851</lastplayed>
+	</game>
+</gameList>
